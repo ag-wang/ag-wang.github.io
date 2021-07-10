@@ -6,7 +6,7 @@ permalink: /publication/journal_publications
 
 1. Yang, Jing, Gaojin Fan, Kai Xie, Qiqi Chen, and <b>Aiguo Wang</b>. "Additive Noise Model Structure Learning based on Rank Correlation." Information Sciences 571 (2021): 499-526. 
 2. <b>Wang, Aiguo</b>, Xianhong Wu, Liang Zhao, Haibao Chen, and Shenghui Zhao. "Physical Activity Recognition from Accelerometer Data Using Multi-view Aggregation." Journal of Applied Science and Engineering 24, no. 4 (2021): 611-620. [PDF](http://ag-wang.github.io/agwang.github.io/files/mv_har_2021-jase.pdf)
-3. Zheng, Chundi, Huihui Chen, and Aiguo Wang. "High Angular Resolution for 77GHz FMCW Radar via a Sparse Weighted Quadratic Minimization." IEEE Sensors Journal 21, no. 9 (2021): 10637-10646. 
+3. Zheng, Chundi, Huihui Chen, and <b>Aiguo Wang</b>. "High Angular Resolution for 77GHz FMCW Radar via a Sparse Weighted Quadratic Minimization." IEEE Sensors Journal 21, no. 9 (2021): 10637-10646. 
 4. <b>Wang, Aiguo</b>, Jing Yang, and Ning An. "Regularized Sparse Modelling for Microarray Missing Value Estimation." IEEE Access 9 (2021): 16899-16913. [PDF](http://ag-wang.github.io/agwang.github.io/files/regularized_sparse_imputation_2021-ieeeaccess.pdf) 
 5. Chen, Huihui, Bin Guo, Zhiwen Yu, <b>Aiguo Wang</b>, and Chundi Zheng. "The Framework of Increasing Drivers’ Income on the Online Taxi Platforms." IEEE Transactions on Network Science and Engineering 7, no. 4 (2020): 2182-2191. 
 6. <b>Wang, Aiguo</b>, Shenghui Zhao, Chundi Zheng, Jing Yang, Guilin Chen, and Chih-Yung Chang. "Activities of Daily Living Recognition with Binary Environment Sensors Using Deep Learning: A Comparative Study." IEEE Sensors Journal 21, no. 4 (2020): 5423 - 5433. [PDF](http://ag-wang.github.io/agwang.github.io/files/adl_dl_2021-ieeesensors.pdf) 
@@ -29,5 +29,3 @@ permalink: /publication/journal_publications
 23. <b>Wang, Aiguo</b>, Ning An, Xin Lu, Hongtu Chen, Changqun Li, and Sue Levkoff. "A Classification Scheme for Analyzing Mobile Apps Used to Prevent and Manage Disease in Late Life." JMIR mHealth and uHealth 2, no. 1 (2014): e6. [PDF](http://ag-wang.github.io/agwang.github.io/files/classification_mobile apps_2014-jmir.pdf) 
 24. Yang, Jing, Ning An, Kunxia Wang, <b>Aiguo Wang</b>, and Lian Li. "An Efficient Causal Structure Learning Algorithm Based on Recursive Simultaneous Equations Model." Chinese Journal of Electronics 22, no. 3 (2013). 
 25. Yang, Jing, Lian Li, and <b>Aiguo Wang</b>. "A Partial Correlation-based Bayesian Network Structure Learning Algorithm under Linear SEM." Knowledge-Based Systems 24, no. 7 (2011): 963-976. 
-
-  
