@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aiguo Wang"
   avatar           : "profile.png"
-  # bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   
   location         : "Guangdong, China"
   employer         :
