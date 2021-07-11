@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Hefei University of Technology, 09/2006-06/2010
+* Ph.D in Computer Applied Technology, Hefei University of Technology, 09/2010-12/2015 (successive postgraduate and doctoral programs)
+* joint training Ph.D in Bioinformatics, Harvard University, 2014-2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019: Distinguished Researchers
+  * Foshan University
+ 
+* January 2016: Post Doc
+  * Hefei University of Technlogy
   
-Skills
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017: Honored Paper (Computers in Biology and Medicine)
+* 2015: National Scholarship for Graduate Students of China
 
 Publications
 ======
@@ -54,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Activities
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * ACM Computing Survey、IEEE Transactions on Mobile Computing、IEEE Transactions on Intelligent Systems and Technology、Knowledge-based Systems、Expert Systems with Applications、European Journal of Operational Research、Neurocomputing、IEEE Sensors Journal、Sensors、Pervasive and Mobile Computing、IEEE Access、Academy Proceedings in Engineering Sciences、Web Intelligence: An International Journal、Computers in Biology and Medicine、Computational Biology and Chemistry、Journal of Medical System、Plos One、KSII Transactions on Internet and Information Systems、Biocybernetics and Biomedical Engineering
+ 
