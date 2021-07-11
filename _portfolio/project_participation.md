@@ -1,5 +1,5 @@
 ---
-title: "#Participation"
+title: "#Project Participation"
 collection: portfolio
 ---
 
