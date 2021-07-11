@@ -1,6 +1,6 @@
 ---
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate_course"
 permalink: /teaching/undergraduate_courses
 ---
 * 2021 Spring
