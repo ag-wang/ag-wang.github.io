@@ -1,7 +1,7 @@
 ---
 collection: teaching
 type: "Undergraduate_course"
-permalink: /teaching
+permalink: /teaching/undergraduate_courses
 ---
 * 2021 Spring
     > Intelligent Information Processing, 45  
