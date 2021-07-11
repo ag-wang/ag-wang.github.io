@@ -7,4 +7,4 @@ venue: "School of Electronic Information Engineering"
 date: 2019-01-01
 location: "City, Country"
 ---
-1. Introduction to Cognitive Science
+1. Introduction to Cognitive Science, 30
