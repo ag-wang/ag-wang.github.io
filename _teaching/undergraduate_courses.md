@@ -2,6 +2,7 @@
 collection: teaching
 type: "Undergraduate course"
 ---
+
 1. 2019 Autumn, Introduction to Cognitive Science, 30
 
 2. 2020 Spring    
