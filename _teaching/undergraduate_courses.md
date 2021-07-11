@@ -13,10 +13,3 @@ permalink: /teaching/undergraduate_courses
 
 ### 2019 Autumn
     - Introduction to Cognitive Science, 30  
-
-
-
-
- 
-
-
