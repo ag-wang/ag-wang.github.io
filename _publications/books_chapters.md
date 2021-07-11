@@ -1,5 +1,5 @@
 ---
-title: "Books/Chapters"
+title: "#Books/Chapters"
 collection: publications
 permalink: /publication/books_chapters
 
