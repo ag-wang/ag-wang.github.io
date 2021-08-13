@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/conference_publications
 ---
 
-1. <b>Wang, Aiguo</b>, Yue Meng, Jinjun Liu, Shenghui Zhao, Guilin Chen. "Multi-domain feature extraction for human activity recognition", (submitted)
+1. <b>Wang, Aiguo</b>, Yue Meng, Jinjun Liu, Shenghui Zhao, Guilin Chen. "Multi-domain feature extraction for human activity recognition", In 2021 International Conference on Networking and Network Applications (NaNA), Lijiang City, China, October 29- November 1, 2021. 
 2. <b>Wang, Aiguo</b>, Shenghui Zhao, Guilin Chen. "Human Activity Recognition from Accelerometer Data: Axis-wise Versus Axes-resultant Feature Extraction." The Fifth International Conference on Computer Science and Application Science, Sanya, China, October 19-21, 2021. 
 3. <b>Wang, Aiguo</b>, Huancheng Liu, Huihui Chen, Chundi Zheng, Guilin Chen. “uHealth: Smart Clothing Enabled Intelligent Ubiquitous Health Monitoring System.” 2021 IEEE International Conference Consumer Electronics - Taiwan, Penghu, Taiwan, June 16-18, 2021.
 4. <b>Wang, Aiguo</b>, Huancheng Liu, Guilin Chen. “Chaotic Harmony Search based Multi-objective Feature Selection of Classification of Gene Expression Profiles.” 2021 IEEE the 9th International Conference on Bioinformatics and Computational Biology (ICBCB 2021), Taiyuan, China, May 25-27, 2021. [[PDF]](http://ag-wang.github.io/files/chaotic_hs_fs_2021-icbcb.pdf) [[Presentation]](http://ag-wang.github.io/files/ICBCB-2021-presentation.pdf)
