@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/journal_publications
 ---
 
-1. <b>Wang, Aiguo</b>, Shenghui Zhao, Guilin Chen. “Towards a Clustering Guided Hierarchical Framework for Sensor-based Activity Recognition.” <i>Sensors</i> (submitted)
+1. <b>Wang, Aiguo</b>, Shenghui Zhao, Huan-Chao Keh, Guilin Chen, Diptendu Sinha Roy. “Towards a Clustering Guided Hierarchical Framework for Sensor-based Activity Recognition.” <i>Sensors</i> (submitted)
 2. Yang, Jing, Gaojin Fan, Kai Xie, Qiqi Chen, and <b>Aiguo Wang</b>. "Additive Noise Model Structure Learning based on Rank Correlation." <i>Information Sciences</i> 571 (2021): 499-526. 
 3. <b>Wang, Aiguo</b>, Xianhong Wu, Liang Zhao, Haibao Chen, and Shenghui Zhao. "Physical Activity Recognition from Accelerometer Data Using Multi-view Aggregation." <i>Journal of Applied Science and Engineering</i> 24, no. 4 (2021): 611-620. [[PDF]](http://ag-wang.github.io/files/mv_har_2021-jase.pdf)
 4. Zheng, Chundi, Huihui Chen, and <b>Aiguo Wang</b>. "High Angular Resolution for 77GHz FMCW Radar via a Sparse Weighted Quadratic Minimization." <i>IEEE Sensors Journal</i> 21, no. 9 (2021): 10637-10646. 
