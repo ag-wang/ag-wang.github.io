@@ -17,5 +17,5 @@ His current research interests mainly include machine learning, data mining, per
 
 News:
 
-* [2021-12-03] 安徽省电子学会，安徽省电子信息科技奖科技进步一等奖— “智慧健康养老关键技术研究及其应用示范” (排名5,第一合作单位排名1)
-* [2021-10-18] One paper is accepted to Sensors!
+* Dec.'03, 2021: **安徽省电子学会，安徽省电子信息科技奖科技进步一等奖— “智慧健康养老关键技术研究及其应用示范” (排名5,第一合作单位排名1)**
+* Oct.'18, 2021: One paper is accepted on Sensors!
