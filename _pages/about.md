@@ -11,3 +11,11 @@ redirect_from:
 He is currently a distinguished researcher at the School of Electronic Information Engineering, Foshan University, China. He worked as a (General) Manager in a startup high-tech company from 2016 to 2019. From 2014 to 2015, he worked with Prof. Gil Alterovitz as a joint training PhD student in the Harvard University, USA. He took the successive postgraduate and doctoral programs of study and received his Ph.D. degree in Computer Applied Technology from the Hefei University of Technology in China in December 2015. He received his Bachelor degree in Computer Science and Technology from the Hefei University of Technology in 2010. 
 
 His current research interests mainly include machine learning, data mining, pervasive computing, and bioinformatics. 
+
+
+
+
+News:
+
+* [2021-12-03] 安徽省电子学会，安徽省电子信息科技奖科技进步一等奖— “智慧健康养老关键技术研究及其应用示范” (排名5,第一合作单位排名1)
+* [2021-10-18] One paper is accepted to Sensors!
