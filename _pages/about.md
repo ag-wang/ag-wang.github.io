@@ -17,6 +17,7 @@ His current research interests mainly include machine learning, data mining, per
 
 
 ***News:***
+- Jan. 03, 2022: One paper accepted to *Computers in Biology and Medicine*
 - Dec. 24, 2021: 广东省计算机学会，优秀论文奖三等奖” [[CERTIFICATE]](http://ag-wang.github.io/files/caguangdong2021.jpg)
 - Dec. 11, 2021: 全国高校人工智能与大数据创新联盟，优秀教材建设奖一等奖— “智能科学与技术导论” [[CERTIFICATE]](http://ag-wang.github.io/files/IST_excellent_textbook_award_2021.jpg)
 - Dec. 03, 2021: **安徽省电子学会，安徽省电子信息科技奖科技进步一等奖— “智慧健康养老关键技术研究及其应用示范” (排名5, 第一合作单位排名1)**
