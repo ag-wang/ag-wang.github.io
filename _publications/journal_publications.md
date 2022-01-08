@@ -5,7 +5,7 @@ permalink: /publication/journal_publications
 ---
 
 1. <b>Wang, Aiguo</b>, Li Liu, Jiaoyun Yang, Lian Li. "Causality Field in Nonlinear Causal Effect Analysis." <i>Frontiers of Information Technology & Electronic Engineering</i> (submitted)
-2. <b>Wang, Aiguo</b>, Huancheng Liu, Jing Yang, Guilin Chen. "Ensemble Feature Selection for Stable Biomarker Identification and Cancer Classification from Microarray Expression Data." <i>Computers in Biology and Medicine</i>, 2022. (accepted)
+2. <b>Wang, Aiguo</b>, Huancheng Liu, Jing Yang, Guilin Chen. "Ensemble Feature Selection for Stable Biomarker Identification and Cancer Classification from Microarray Expression Data." <i>Computers in Biology and Medicine</i> 142 (2022): 105208. [[PDF]](http://ag-wang.github.io/files/ensemble_feature_selection_2022-cbm.pdf)
 3. <b>Wang, Aiguo</b>, Shenghui Zhao, Huan-Chao Keh, Guilin Chen, Diptendu Sinha Roy. "Towards a Clustering Guided Hierarchical Framework for Sensor-based Activity Recognition." <i>Sensors</i> 21, no. 21 (2021): 6962. [[PDF]](http://ag-wang.github.io/files/clustering-guided har_2021-sensors.pdf)
 4. Yang, Jing, Gaojin Fan, Kai Xie, Qiqi Chen, <b>Aiguo Wang</b>. "Additive Noise Model Structure Learning based on Rank Correlation." <i>Information Sciences</i> 571 (2021): 499-526. 
 5. <b>Wang, Aiguo</b>, Xianhong Wu, Liang Zhao, Haibao Chen, Shenghui Zhao. "Physical Activity Recognition from Accelerometer Data Using Multi-view Aggregation." <i>Journal of Applied Science and Engineering</i> 24, no. 4 (2021): 611-620. [[PDF]](http://ag-wang.github.io/files/mv_har_2021-jase.pdf) (EI)
