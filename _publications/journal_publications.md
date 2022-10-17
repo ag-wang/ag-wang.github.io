@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/journal_publications
 ---
 
-1. <b>Wang, Aiguo</b>,"Fusion of Kinematic and Physiological Sensors for Hand Gesture Recognition." <i>Applied Sciences</i> (to be submitted)(http://ag-wang.github.io/files/gesture-recognition-2022-as.pdf) 
-2. <b>Wang, Aiguo</b>, Li Liu, Jiaoyun Yang, Lian Li. "Causality Field in Nonlinear Causal Effect Analysis." <i>Frontiers of Information Technology & Electronic Engineering</i> 23, no. 8 (2022): 1277-1286 [[PDF]](http://ag-wang.github.io/files/causality-2022-fitee.pdf) 
+1. <b>Wang, Aiguo</b>,"Fusion of Kinematic and Physiological Sensors for Hand Gesture Recognition." <i>Applied Sciences</i> (to be submitted). [[PDF]](http://ag-wang.github.io/files/gesture-recognition-2022-as.pdf) 
+2. <b>Wang, Aiguo</b>, Li Liu, Jiaoyun Yang, Lian Li. "Causality Field in Nonlinear Causal Effect Analysis." <i>Frontiers of Information Technology & Electronic Engineering</i> 23, no. 8 (2022): 1277-1286. [[PDF]](http://ag-wang.github.io/files/causality-2022-fitee.pdf) 
 3. <b>Wang, Aiguo</b>, Huancheng Liu, Jing Yang, Guilin Chen. "Ensemble Feature Selection for Stable Biomarker Identification and Cancer Classification from Microarray Expression Data." <i>Computers in Biology and Medicine</i> 142 (2022): 105208. [[PDF]](http://ag-wang.github.io/files/ensemble_feature_selection_2022-cbm.pdf)
 4. Yang, Jing, Liufeng Jiang, Anbo Shen, <b>Aiguo Wang</b>. "Online Streaming Features Causal Discovery Algorithm based on Partial Rank Correlation." IEEE Transactions on Artificial Intelligence (2022).
 5. Yang, Jing, Liufeng Jiang, Kai Xie, Qiqi Chen, <b>Aiguo Wang</b>. "Causal Structure Learning Algorithm based on Partial Rank Correlation under Additive Noise Model." Applied Artificial Intelligence (2022): 1-40. 
