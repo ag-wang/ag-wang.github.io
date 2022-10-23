@@ -51,4 +51,5 @@ Professional Activities
 * Reviewer
   * ACM Computing Survey、IEEE Transactions on Mobile Computing、IEEE Transactions on Intelligent Systems and Technology、Information Fusion、Knowledge-based Systems、Expert Systems with Applications、European Journal of Operational Research、Neurocomputing、IEEE Sensors Journal、Sensors、Pervasive and Mobile Computing、IEEE Access、Evolving Systems、Academy Proceedings in Engineering Sciences、KSII Transactions on Internet and Information Systems、Web Intelligence: An International Journal
   * IEEE Journal of Biomedical and Health Informatics、Computers in Biology and Medicine、Computational Biology and Chemistry、Journal of Medical System、Plos One、Biocybernetics and Biomedical Engineering
+  * Journal of Medical Internet Research、JMIR mHealth and uHealth
  
