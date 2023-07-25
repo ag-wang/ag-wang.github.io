@@ -17,6 +17,7 @@ His current research interests mainly include machine learning, data mining, per
 
 
 ***News:***
+- Apr. 01, 2023：Our textbook [物联网与数据挖掘] is avaiable online
 - Feb. 09, 2023: 广东省计算机学会，2022年优秀论文奖三等奖” [[CERTIFICATE]](http://ag-wang.github.io/files/caguangdong2022.jpg)
 - Jan. 01, 2022: One paper accepted to *Computers in Biology and Medicine*
 - Dec. 24, 2021: 广东省计算机学会，2021年优秀论文奖三等奖” [[CERTIFICATE]](http://ag-wang.github.io/files/caguangdong2021.jpg)
