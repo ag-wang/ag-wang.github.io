@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/conference_publications
 ---
 
-1. <b>Wang, Aiguo</b>, . "Deep learning models for cancer classification from microarry gene expression profiles." In . [[PDF]](http://ag-wang.github.io/files/dl_microarray_2022-.docx)
+1. <b>Wang, Aiguo</b>, Qinghao Hu. "Deep learning models for cancer classification from microarry gene expression profiles." In 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, May 26-28, 2023. [[PDF]](http://ag-wang.github.io/files/dl_microarray_2023-ccai.pdf)
 2. <b>Wang, Aiguo</b>, Jingyu Yan, Zhongyu Luo. "Evaluating stability of feature selectors: Adjusted measures considering feature correlations." In 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Changsha, China, December 6-8, 2022. [[PDF]](http://ag-wang.github.io/files/stability_2022-bibm.pdf) 
 3. <b>Wang, Aiguo</b>, Yue Meng, Liang Zhao, Jinjun Liu, Guilin Chen. "Comparison of feature extraction techniques for ambient sensor-based in-home activity recognition." In 2022 International Conference on Networking and Network Applications (NaNA), Urumqi, China, December 3-5, 2022. [[PDF]](http://ag-wang.github.io/files/comparison_fs_2022-nana.pdf)
 4. <b>Wang, Aiguo</b>, Huancheng Liu, Jingyu Yan. "Hand gesture recognition using multi-sensor information fusion." In The 3rd International Conference on Artificial Intelligence and Computer Engineering (ICAICE), Dalian, China, November 11-13, 2022. [[PDF]](http://ag-wang.github.io/files/gesturerecognition_2022-icaice.pdf)
