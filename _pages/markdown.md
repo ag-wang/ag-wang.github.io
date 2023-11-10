@@ -1,3 +1,12 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 -------------------------------------------------------
 TIPS on how to use ChatGPT to write an academic paper:
 1. I'm now writing a research article about the role of pneumonectomy in N2 NSCLC. please help me with the writing. just answer yes.
@@ -15,16 +24,6 @@ TIPS on how to use ChatGPT to write an academic paper:
 The most common habits from more than 200 English papers written by Graduate Chinese Engineering Students.[[PDF]](http://ag-wang.github.io/files/The Most Common Habits from more than 200 English Papers.pdf) 
 
 
-
-
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
 
 ## Locations of key files/directories
 
