@@ -1,3 +1,22 @@
+-------------------------------------------------------
+TIPS on how to use ChatGPT to write an academic paper:
+1. I'm now writing a research article about the role of pneumonectomy in N2 NSCLC. please help me with the writing. just answer yes.
+2. Now write a structured abstract according to the following results, about 300 words, with background, methods, results, conclusions, and keywords.
+3. Give me a good title/give me a title in the style of the annals of thoracic surgery.
+4. Write the introduction part according to the abstract and the references I provided.
+5.Now write a discussion part according to my results and the references I just provided.
+6.Please summarize the abbreviations used in all the above paragraph l provided, listed them without numbers.
+7. write the authors contribution, there are a total of five authors A,B,C,D,E and E is the corresponding author.
+8. write the ethical statement, and the hospital is Shanghai Chest Hospital.
+9. write a cover letter to the journal of NEJM.
+10. suggest 5 suitable journals for my study, if about 5.
+
+-------------------------------------------------------------
+The most common habits from more than 200 English papers written by Graduate Chinese Engineering Students
+
+
+
+
 ---
 permalink: /markdown/
 title: "Markdown"
