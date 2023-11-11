@@ -5,7 +5,7 @@ permalink: /publication/journal_publications
 ---
 
 1. <b>Wang, Aiguo</b>, Huancheng Liu, Chundi Zheng, Huihui Chen, Chih-Yung Chang. "Fusion of Kinematic and Physiological Sensors for Hand Gesture Recognition." <i>Multimedia Tools and Applications</i>, . [[PDF]](http://ag-wang.github.io/files/gesture-recognition-2022-as.pdf)
-2. Zhao, Liang, Jingyu Yan, <b>Aiguo Wang</b>. "A Comparative Study on Real-time Sitting Posture Monitoring Systems Using Pressure Sensors." <i>Journal of Electronic Engineering</i> 2023. [[PDF]](http://ag-wang.github.io/files/posture-monitoring-2023-jee.pdf)
+2. Zhao, Liang, Jingyu Yan, <b>Aiguo Wang*</b>. "A Comparative Study on Real-time Sitting Posture Monitoring Systems Using Pressure Sensors." <i>Journal of Electronic Engineering</i> 2023. [[PDF]](http://ag-wang.github.io/files/posture-monitoring-2023-jee.pdf)
 3. <b>Wang, Aiguo</b>, Li Liu, Jiaoyun Yang, Lian Li. "Causality Field in Nonlinear Causal Effect Analysis." <i>Frontiers of Information Technology & Electronic Engineering</i> 23, no. 8 (2022): 1277-1286. [[PDF]](http://ag-wang.github.io/files/causality-2022-fitee.pdf) 
 4. <b>Wang, Aiguo</b>, Huancheng Liu, Jing Yang, Guilin Chen. "Ensemble Feature Selection for Stable Biomarker Identification and Cancer Classification from Microarray Expression Data." <i>Computers in Biology and Medicine</i> 142 (2022): 105208. [[PDF]](http://ag-wang.github.io/files/ensemble_feature_selection_2022-cbm.pdf)
 5. Yang, Jing, Liufeng Jiang, Anbo Shen, <b>Aiguo Wang</b>. "Online Streaming Features Causal Discovery Algorithm based on Partial Rank Correlation." IEEE Transactions on Artificial Intelligence (2022).
