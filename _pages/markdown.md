@@ -10,7 +10,7 @@ redirect_from:
 ------------------------------------------------------------
 # 研究生入学研读
 ## [[搞定科研思维：B站四讲]](https://www.bilibili.com/video/BV1be411977i/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=645b5d44d01b3611414e16a3216812a0)
-
+## [[吴恩达教你：如何有效读论文？]](https://www.bilibili.com/video/BV17w41167rC/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=645b5d44d01b3611414e16a3216812a0)
 
 ---------------------------------------------------------
 # 研究生写论文前研读
