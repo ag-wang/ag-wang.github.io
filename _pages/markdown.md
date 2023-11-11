@@ -22,6 +22,11 @@ TIPS on how to use ChatGPT to write an academic paper:
 
 -------------------------------------------------------------
 The most common habits from more than 200 English papers written by Graduate Chinese Engineering Students.[[PDF]](http://ag-wang.github.io/files/The Most Common Habits from more than 200 English Papers.pdf) 
+-------------------------------------------------------------
+[[搞定科研思维：B站四讲]](https://www.bilibili.com/video/BV1be411977i/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=645b5d44d01b3611414e16a3216812a0)
+
+-------------------------------------------------------------
+
 
 
 
