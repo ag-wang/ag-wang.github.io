@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 ------------------------------------------------------------
-## 研究生入学研读
-[[搞定科研思维：B站四讲]](https://www.bilibili.com/video/BV1be411977i/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=645b5d44d01b3611414e16a3216812a0)
+# 研究生入学研读
+## [[搞定科研思维：B站四讲]](https://www.bilibili.com/video/BV1be411977i/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=645b5d44d01b3611414e16a3216812a0)
 
 
 ---------------------------------------------------------
-## 研究生写论文前研读
-TIPS on how to use ChatGPT to write an academic paper:
+# 研究生写论文前研读
+## TIPS on how to use ChatGPT to write an academic paper:
 1. I'm now writing a research article about the role of pneumonectomy in N2 NSCLC. please help me with the writing. just answer yes.
 2. Now write a structured abstract according to the following results, about 300 words, with background, methods, results, conclusions, and keywords.
 3. Give me a good title/give me a title in the style of the annals of thoracic surgery.
@@ -27,8 +27,8 @@ TIPS on how to use ChatGPT to write an academic paper:
 10. suggest 5 suitable journals for my study, if about 5.
 
 
-The most common habits from more than 200 English papers written by Graduate Chinese Engineering Students.[[PDF]](http://ag-wang.github.io/files/The Most Common Habits from more than 200 English Papers.pdf) 
-
+## Grammary Guidelines
+1. The most common habits from more than 200 English papers written by Graduate Chinese Engineering Students.[[PDF]](http://ag-wang.github.io/files/The Most Common Habits from more than 200 English Papers.pdf) 
 
 -------------------------------------------------------------
 
