@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+# 本科生入学研读
+## [[高质量大学怎么过？建议你看看《上海交通大学生存手册》]](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xin-ban-xu-todo)
 
 ------------------------------------------------------------
 # 研究生入学研读
