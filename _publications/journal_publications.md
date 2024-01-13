@@ -27,6 +27,7 @@ First/Corresponding Author
 21. <b>Wang, Aiguo</b>, Ning An, Guilin Chen, Lian Li, Gil Alterovitz. "Improving PLS–RFE based Gene Selection for Microarray Data Classification." <i>Computers in Biology and Medicine</i> 62 (2015): 14-24. [[PDF]](http://ag-wang.github.io/files/improving_plsref_2015-cbm.pdf)
 22. <b>Wang, Aiguo</b>, Ning An, Guilin Chen, Lian Li. "Hybridizing mRMR and Harmony Search for Gene Selection and Classification of Microarray Data." <i>Journal of Computational Information Systems</i> 11, no. 5 (2015): 1563-1570. (EI)
 23. <b>Wang, Aiguo</b>, Ning An, Xin Lu, Hongtu Chen, Changqun Li, Sue Levkoff. "A Classification Scheme for Analyzing Mobile Apps Used to Prevent and Manage Disease in Late Life." <i>JMIR mHealth and uHealth</i> 2, no. 1 (2014): e6. [[PDF]](http://ag-wang.github.io/files/classification_mobileapps_2014-jmir.pdf) 
+
 Co-author
 1. Yang, Jing, Liufeng Jiang, Anbo Shen, <b>Aiguo Wang</b>. "Online Streaming Features Causal Discovery Algorithm based on Partial Rank Correlation." <i>IEEE Transactions on Artificial Intelligence</i> 4, no. 1 (2023): 197-208.
 2. Yang, Jing, Liufeng Jiang, Kai Xie, Qiqi Chen, <b>Aiguo Wang</b>. "Causal Structure Learning Algorithm based on Partial Rank Correlation under Additive Noise Model." <i>Applied Artificial Intelligence</i> 36, no. 1 (2022): e2023390.
