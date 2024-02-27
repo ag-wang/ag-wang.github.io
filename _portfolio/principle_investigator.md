@@ -10,4 +10,4 @@ collection: portfolio
 6. Research on key problems for the feature analysis of microarray gene expression profiles, Guangdong Basic and Applied Basic Research Foundation, 2019.10-2022.9 (No. 2020A1515011499), 100K
 7. Research on human activity recognion based on the fusion of multi-channel sensor data, Foshan University Startup Foundation, 2019.03-2022.12, 264.7K (each year: 9.6+13.6+(13.27-10))
 8. Research on microarray missing value estimation and gene selection methods, Fundamental Research Funds for the Central University, 2016.10-2017.12 (No. JZ2016HGBH1053), 50K
-9. Research on feature analysis and tumor classification for microarray data, China Postdoctoral Science Foundation, 2016.6-2018.5 (No. 2016M592046), 50K
+9. Research on feature analysis and tumor classification for microarray data, China Postdoctoral Science Foundation, 2016.6-2018.5 (No. 2016M592046), 50K[[PDF]](http://ag-wang.github.io/files/中国博士后基金资助证书-2016.pdf)
