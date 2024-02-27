@@ -4,7 +4,7 @@ collection: portfolio
 ---
 
 1. Research on key technology of daily behavior analysis for the elderly living alone, the Featured Innovation Project of the Department of Education of Guangdong Province, 2021.9-2023.8 (No. 2021KTSCX117), 60K[[PDF]](http://ag-wang.github.io/files/广东教育厅特色创新项目结项证书-2023.pdf)
-2. Research on complex human activity recognition based on multi-level feature analysis, National Natural Science Foundation of China (NSFC), 2020.1-2022.12 (No. 61902068), 220K
+2. Research on complex human activity recognition based on multi-level feature analysis, National Natural Science Foundation of China (NSFC), 2020.1-2022.12 (No. 61902068), 220K[[PDF]](http://ag-wang.github.io/files/国基青年结题通知书-2023.pdf)
 4. Research on smart sensing enabled healthcare platform for aging in place, Foshan S&T Innovation Plan, 2020.1-2021.12 (No. 1920001001001)
 5. Research on human activity recognion based on the fusion of multi-channel sensor data, Foshan Post Doc Startup Foundation, 2019.10-, (No. BKS203023), 300K
 6. Research on key problems for the feature analysis of microarray gene expression profiles, Guangdong Basic and Applied Basic Research Foundation, 2019.10-2022.9 (No. 2020A1515011499), 100K
