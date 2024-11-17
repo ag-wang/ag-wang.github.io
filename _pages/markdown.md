@@ -14,6 +14,8 @@ redirect_from:
 ## [[搞定科研思维：B站四讲]](https://www.bilibili.com/video/BV1be411977i/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=645b5d44d01b3611414e16a3216812a0)
 ## [[吴恩达教你：如何有效读论文？]](https://www.bilibili.com/video/BV17w41167rC/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=645b5d44d01b3611414e16a3216812a0)
 ## [[参考文献格式整理简介]](https://www.bilibili.com/video/BV1DC4y1r7qL/?vd_source=645b5d44d01b3611414e16a3216812a0)[[PDF]](http://ag-wang.github.io/files/reference_format_guide.pptx) 
+## [[CCF推荐国际学术会议和期刊目录-2022年]][[PDF]](http://ag-wang.github.io/files/ccf_conf_journal_2022.pdf) 
+## [[CCF推荐中文科技期刊目录-2019年]][[PDF]](http://ag-wang.github.io/files/ccf_chinese_journal_2019.pdf) 
 
 ---------------------------------------------------------
 # 研究生写论文前研读
