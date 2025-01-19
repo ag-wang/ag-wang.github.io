@@ -49,7 +49,7 @@ Teaching
 Professional Activities
 ======
 * Reviewer
-  * ACM Computing Survey、IEEE Transactions on Mobile Computing、IEEE Transactions on Intelligent Systems and Technology、Information Fusion、Knowledge-based Systems、Expert Systems with Applications、Applied Intelligence、European Journal of Operational Research、Neurocomputing、IEEE Sensors Journal、Sensors、Pervasive and Mobile Computing、IEEE Access、Evolving Systems、KSII Transactions on Internet and Information Systems、The Journal of Supercomputing、Academy Proceedings in Engineering Sciences、Web Intelligence: An International Journal
+  * ACM Computing Survey、IEEE Transactions on Mobile Computing、IEEE Transactions on Intelligent Systems and Technology、Information Fusion、Knowledge-based Systems、Engineering Applications of Artificial Intelligence、Expert Systems with Applications、Applied Intelligence、European Journal of Operational Research、Neurocomputing、IEEE Sensors Journal、Sensors、Pervasive and Mobile Computing、IEEE Access、Evolving Systems、KSII Transactions on Internet and Information Systems、The Journal of Supercomputing、Academy Proceedings in Engineering Sciences、Web Intelligence: An International Journal
   * Artificial Intelligence In Medicine、Bioinformatics、Cognitive Computation、IEEE Journal of Biomedical and Health Informatics、Computers in Biology and Medicine、Computer Methods and Programs in Biomedicine、Computational Biology and Chemistry、Journal of Medical System、Plos One、Scientific Reports、Biocybernetics and Biomedical Engineering
   * Journal of Medical Internet Research、JMIR mHealth and uHealth、JMIR Mental Health
  
