@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/journal_publications
 ---
 # First/Corresponding Author
-1. <b>Wang, Aiguo</b>, "Residual Temporal Convolutional Network with Mixed Attention for Heart Sound Classification." <i></i>, . [[PDF]](http://ag-wang.github.io/files/heart-sound-2024-.pdf)
-2. <b>Wang, Aiguo</b>, "Transfer Learning Enhanced Cross-domain Sitting Posture Recognition Using Pressure Sensors."<i></i>, . [[PDF]](http://ag-wang.github.io/files/posture-recognition-2024-.pdf)
+1.
+2. <b>Wang, Aiguo</b>, "Detection of Valvular Heart Disease from Phonocardiogram Using Deep Attentional Temporal Convolutional Networks." <i></i>, . [[PDF]](http://ag-wang.github.io/files/heart-sound-2025-.pdf)
 3. <b>Wang, Aiguo</b>, Huancheng Liu, Chundi Zheng, Huihui Chen, Chih-Yung Chang. "Fusion of Kinematic and Physiological Sensors for Hand Gesture Recognition." <i>Multimedia Tools and Applications</i> 83, (2024): 68013–68040. [[PDF]](http://ag-wang.github.io/files/gesture-recognition-2024-mtap.pdf)
 4. Zhao, Liang, Jingyu Yan, <b>Aiguo Wang*</b>. "A Comparative Study on Real-time Sitting Posture Monitoring Systems Using Pressure Sensors." <i>Journal of Electronic Engineering</i> 74, no. 6 (2023): 474-484. [[PDF]](http://ag-wang.github.io/files/posture-monitoring-2023-jee.pdf)
 5. <b>Wang, Aiguo</b>, Li Liu, Jiaoyun Yang, Lian Li. "Causality Field in Nonlinear Causal Effect Analysis." <i>Frontiers of Information Technology & Electronic Engineering</i> 23, no. 8 (2022): 1277-1286. [[PDF]](http://ag-wang.github.io/files/causality-2022-fitee.pdf) 
