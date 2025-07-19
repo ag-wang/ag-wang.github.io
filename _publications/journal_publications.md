@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/journal_publications
 ---
 # First/Corresponding Author
-1.
+1. <b>Wang, Aiguo</b>,
 2. <b>Wang, Aiguo</b>, "Detection of Valvular Heart Disease from Phonocardiogram Using Deep Attentional Temporal Convolutional Networks." <i></i>, . [[PDF]](http://ag-wang.github.io/files/heart-sound-2025-.pdf)
 3. <b>Wang, Aiguo</b>, Huancheng Liu, Chundi Zheng, Huihui Chen, Chih-Yung Chang. "Fusion of Kinematic and Physiological Sensors for Hand Gesture Recognition." <i>Multimedia Tools and Applications</i> 83, (2024): 68013–68040. [[PDF]](http://ag-wang.github.io/files/gesture-recognition-2024-mtap.pdf)
 4. Zhao, Liang, Jingyu Yan, <b>Aiguo Wang*</b>. "A Comparative Study on Real-time Sitting Posture Monitoring Systems Using Pressure Sensors." <i>Journal of Electronic Engineering</i> 74, no. 6 (2023): 474-484. [[PDF]](http://ag-wang.github.io/files/posture-monitoring-2023-jee.pdf)
