@@ -8,7 +8,7 @@ redirect_from:
 ---
 # 本科生入学研读
 ## [[高质量大学怎么过？建议你看看《上海交通大学生存手册》]](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xin-ban-xu-todo)
-## [[如何过大学？]](http://ag-wang.github.io/files/大学开挂指南.pptx)
+## [[大学开挂指南？]](http://ag-wang.github.io/files/university_student.pptx)
 
 ------------------------------------------------------------
 # 研究生入学研读
