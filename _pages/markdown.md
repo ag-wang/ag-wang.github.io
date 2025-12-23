@@ -6,6 +6,14 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+# 相关比赛
+## 全国大学生软件创新大赛
+## 全国大学生数据分析竞赛
+## 泰迪杯数据挖掘挑战赛
+## 睿抗机器人开发者大赛
+## 蓝桥杯
+## 中国国际大学生创新大赛
+
 # 本科生入学研读
 ## [[高质量大学怎么过？建议你看看《上海交通大学生存手册》]](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xin-ban-xu-todo)
 ## [[大学开挂指南？]](http://ag-wang.github.io/files/university_student.pptx)
