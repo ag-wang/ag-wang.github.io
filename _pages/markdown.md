@@ -25,6 +25,7 @@ redirect_from:
 ## [[参考文献格式整理简介]](https://www.bilibili.com/video/BV1DC4y1r7qL/?vd_source=645b5d44d01b3611414e16a3216812a0)[[PDF]](http://ag-wang.github.io/files/reference_format_guide.pptx) 
 ## [[CCF推荐国际学术会议和期刊目录-2022年]][[PDF]](http://ag-wang.github.io/files/ccf_conf_journal_2022.pdf) 
 ## [[CCF推荐中文科技期刊目录-2019年]][[PDF]](http://ag-wang.github.io/files/ccf_chinese_journal_2019.pdf) 
+## [[class incremental learning tutorial]][[PDF]](http://ag-wang.github.io/files/cil_tutorial_2026.pdf) 
 
 ---------------------------------------------------------
 # 研究生写论文前研读
