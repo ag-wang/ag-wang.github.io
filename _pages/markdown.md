@@ -26,6 +26,7 @@ redirect_from:
 ## [[CCF推荐国际学术会议和期刊目录-2022年]][[PDF]](http://ag-wang.github.io/files/ccf_conf_journal_2022.pdf) 
 ## [[CCF推荐中文科技期刊目录-2019年]][[PDF]](http://ag-wang.github.io/files/ccf_chinese_journal_2019.pdf) 
 ## [[class incremental learning tutorial]][[PDF]](http://ag-wang.github.io/files/cil_tutorial_2026.pdf) 
+## [[How to do good research, get it published in KDD]][[PDF]](http://ag-wang.github.io/files/Keogh_SIGKDD09_tutorial.pdf) 
 
 ---------------------------------------------------------
 # 研究生写论文前研读
